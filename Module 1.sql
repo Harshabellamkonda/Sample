@@ -1,4 +1,4 @@
--- 1st question
+-- 1st questions
 
 create database training;
 
